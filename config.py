@@ -4,3 +4,4 @@ COMMITED_UPLOAD_MBPS = 500
 EMAIL_RECEIVER = "hotro@nhamang.vn"
 FB_ACCESS_TOKEN = "..."
 ISP_PHONE = "+84..."
+

@@ -19,3 +19,4 @@ def send_complaint_email(download, upload):
     """
 
     print(f"[Email] Complaint sent to {EMAIL_RECEIVER}")
+
